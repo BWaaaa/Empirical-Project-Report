@@ -14,7 +14,7 @@
 * 							Do-file #2: Extension							 *
 *																			 *
 * This do-file carries out extension in Sectoin 4. Codes and annotations in  * 
-* this file are my orginal work. This file is written with rich comments	 *
+* this file are mainly original. This file is written with rich comments	 *
 * 																			 *
 * Input data:	census_2000_clean.dta  										 *
 * 																			 * 
