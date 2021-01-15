@@ -25,4 +25,4 @@ Links to key STATA package borrowed in this project:\
 2. two stage constrained linear regression, reference @ https://www.stata.com/stb/stb47/sg100/linest.hlp \
 
 
-Enjoy STATA and have fun!
+Enjoy my report and have fun!
