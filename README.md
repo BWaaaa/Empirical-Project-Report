@@ -10,4 +10,12 @@ Replication Code: Replication.do (STATA)
 
 Extension Code: Extension.do (STATA)
 
+Links to some key reference papers:
+1. 
+
+Links to key STATA package borrowed in this project:
+1. high dimensional fixed effect, reference @ http://scorreia.com/software/reghdfe/
+2. two stage constrained linear regression, reference @ https://www.stata.com/stb/stb47/sg100/linest.hlp
+
+
 Enjoy STATA and have fun!
