@@ -14,8 +14,8 @@
 * 			Do-file #1: Replication, a Minor Extension and Analysis 		 *
 * 																			 *
 * This do-file carries out the anlysis in Section 3 of my report. I leanred  * 
-* a lot from the authors' do-file, but most codes and all annotations 		 *
-* have been written by me. This file is written with rich comments			 *
+* a lot from the authors' do-file. A considerable proportion of codes and most  		 *
+* annotations have been written by me. This file is written with rich comments			 *
 *																			 * 
 * Input data:	census_1990_clean.dta  census_2000_clean.dta  (for Table 3)	 * 
 * 				census_1990_clean.dta  census_2000_clean.dta				 * 
